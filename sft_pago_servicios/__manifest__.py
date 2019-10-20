@@ -18,7 +18,7 @@
         "views/view_pos_config.xml"
     ],
     'installable': True,
-    'application': True,
+    'application': True, 
     'demo': [],
     'test': [],
 	"images":['static/description/Recargas_imagen.jpg'],
