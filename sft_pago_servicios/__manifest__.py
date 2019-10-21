@@ -1,7 +1,7 @@
 # coding: utf-8
 
 {
-    'name': 'SFT-Pago servicios',
+    'name': 'SFT-Recargas electronicas',
     'version': '12.0.1.0.0',
     'author': 'Softhink',
     'maintainer': 'Softhink',
