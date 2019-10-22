@@ -8,7 +8,7 @@
     'website': 'http://www.sft.com.mx',
     'license': 'AGPL-3',
     'category': 'Point of sale',
-    'summary': 'Modulo para recargas electronicas de compañias telefonicas, telcel, iusacel, at&t, movistar',
+    'summary': 'Modulo para recargas electronicas/tiempo aire de compañias telefonicas, telcel, iusacel, at&t, movistar',
     'depends': ['point_of_sale'],
     'qweb': [
         'static/src/xml/pos.xml',
