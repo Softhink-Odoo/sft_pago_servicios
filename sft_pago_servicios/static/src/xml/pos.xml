@@ -47,11 +47,11 @@
                 <br/>
                 <div class="content-container" style="position: absolute;top:25%; left: 4%;left: 4%;">
 	                <img class="compania" compania="2" src="/sft_pago_servicios/static/img/icon_telcel.png"/>
-                    <img class="compania" compania='13' src="/sft_pago_servicios/static/img/icon_alo.png"/>
                     <img class="compania" compania='3' src="/sft_pago_servicios/static/img/icon_att.png"/>
                     <img class="compania" compania='13' src="/sft_pago_servicios/static/img/icon_cierto.png"/>
                     <img class="compania" compania='13' src="/sft_pago_servicios/static/img/icon_maztiempo.png"/>
-                    <img class="compania" compania='13' src="/sft_pago_servicios/static/img/icon_movistar.png"/>
+                    <img class="compania" compania='13' src="/sft_pago_servicios/static/img/icon_alo.png"/>
+                    <img class="compania" compania='1' src="/sft_pago_servicios/static/img/icon_movistar.png"/>
                     <img class="compania" compania='4' src="/sft_pago_servicios/static/img/icon_unefon.png"/>
                     <img class="compania" compania='12' src="/sft_pago_servicios/static/img/icon_virgin.png"/>
                 </div>
@@ -76,7 +76,7 @@
                 <div class="content-container ">
                         <p style="margin: 7px;font-size: 14px;">Banco</p>
                     <select id="abono_banco">
-                            <option value="52">Banamex-Cajeros</option>
+                        <option value="52">Banamex-Cajeros</option>
                         <option value="2">Banamex-Ventanilla</option>
                         <option value="50">Banco Azteca-Transferencia mismo banco</option>
                         <option value="22">Banco Azteca-Ventanilla</option>
